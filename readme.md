@@ -103,4 +103,4 @@ The baseline model provides a basic benchmark.
 The fine-tuned DistilBERT model achieves significantly better performance.
 
 🎥 Video Demonstration
-👉 Watch a quick demo of the project: https://drive.google.com/file/d/11eZ4GoAHXmO-moVjdapEj7jJ4A1lCIlO/view?usp=sharing
+👉 Watch a quick [demo of the project](https://drive.google.com/file/d/11eZ4GoAHXmO-moVjdapEj7jJ4A1lCIlO/view?usp=sharing)
